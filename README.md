@@ -25,3 +25,9 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 [Section 7 : Text Summarization](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/07TextSummarization.ipynb)
 
 [Section 8 : Twitter Sentiment Analysis](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/08TwitterSentimentAnalysis.ipynb)
+
+[Section 10 Part 1 : Word Embedding Theory](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/10WordEmbeddingsTheory.ipynb)
+
+[Section 10 Part 2 : Training Your Own Embedding Vector](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/10TrainTheModelForEmbeddings.ipynb)
+
+[Section 10 Part 3 : Pretrained Models For Word Embeddings](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/10PretrainedModelForEmbeddings.ipynb)
