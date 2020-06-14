@@ -22,4 +22,6 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 
 [Section 6 : Yelp , IMDB & Amazon Reviews Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/06IMDBAndAmazonReviewClassificationWithSpaCy.ipynb)
 
-[Section 7 : Twitter Sentiment Analysis](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/07TwitterSentimentAnalysis.ipynb)
+[Section 7 : Text Summarization](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/07TextSummarization.ipynb)
+
+[Section 8 : Twitter Sentiment Analysis](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/08TwitterSentimentAnalysis.ipynb)
