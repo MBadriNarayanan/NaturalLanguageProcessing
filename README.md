@@ -18,3 +18,8 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 [Section 4 : Spam Text Message Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/04SpamTextMessageClassification_.ipynb)
 
 [Section 5 : Resturant Reviews Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/05RestaurantReviewClassificationWithNLTK.ipynb)
+
+
+[Section 6 : Yelp , IMDB & Amazon Reviews Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/06IMDBAndAmazonReviewClassificationWithSpaCy.ipynb)
+
+[Section 7 : Twitter Sentiment Analysis](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/07TwitterSentimentAnalysis.ipynb)
