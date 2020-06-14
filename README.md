@@ -31,3 +31,9 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 [Section 10 Part 2 : Training Your Own Embedding Vector](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/10TrainTheModelForEmbeddings.ipynb)
 
 [Section 10 Part 3 : Pretrained Models For Word Embeddings](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/10PretrainedModelForEmbeddings.ipynb)
+
+[Section 11 : Spam Detection Using CNN](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/11SpamDetectionWithCNN.ipynb)
+
+[Section 12 : Spam Detection Using RNN](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/12SpamDetectionWithRNN.ipynb)
+
+[Section 13 : TextGeneration Using TensorFlow , Keras & LSTM](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/13Text_GenerationWithTensorFlowKerasAndLSTM.ipynb)
