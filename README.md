@@ -14,3 +14,7 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 [Section 3 Part 6 : Parts Of Speech Tagging](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/03PartsOfSpeechTagging.ipynb)
 
 [Section 3 Part 7 : Sentence Segmentation](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/03SentenceSegmentation.ipynb)
+
+[Section 4 : Spam Text Message Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/04SpamTextMessageClassification_.ipynb)
+
+[Section 5 : Resturant Reviews Classification](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/05RestaurantReviewClassificationWithNLTK.ipynb)
