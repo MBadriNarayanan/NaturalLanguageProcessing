@@ -1,6 +1,8 @@
 # NaturalLanguageProcessing
 Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Data Science &amp; Machine Learning Academy.
 
+[Course Certificate](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/Course%20Certificate.pdf)
+
 [Section 3 Part 1 : Tokenization](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/03Tokenization.ipynb)
 
 [Section 3 Part 2 : Stemming & Lemmatization](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/03StemmingAndLemmatization.ipynb)
@@ -37,3 +39,12 @@ Course offered by Udemy . Created and taught by Ankit Mistry, Vijay Gadhave, Dat
 [Section 12 : Spam Detection Using RNN](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/12SpamDetectionWithRNN.ipynb)
 
 [Section 13 : TextGeneration Using TensorFlow , Keras & LSTM](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/13Text_GenerationWithTensorFlowKerasAndLSTM.ipynb)
+
+[Section 14 : Data Analysis With Numpy](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/14DataAnalysisWithNumpy.ipynb)
+
+[Section 15 : Data Analysis With Pandas Part 1](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/15DataAnalysisWithPandas.ipynb)
+
+
+[Section 15 : Data Analysis With Pandas Part 2](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/15DataAnalysisWithPandas2.ipynb)
+
+[Section 16 : Data Visualisation With Matplotlib](https://github.com/MBadriNarayanan/NaturalLanguageProcessing/blob/master/16DataVisualizationWithMatplotlib.ipynb)
